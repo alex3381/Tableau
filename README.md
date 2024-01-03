@@ -1,4 +1,4 @@
-# Tableau Analytics: Unveiling Pizza Sales Insights through Key Metrics
+# Unveiling Pizza Sales Insights through Key Metrics (Tableau)
 
 In my quest to gain a thorough understanding of our business performance, The dataset was transferred from Microsoft SQL Studio to Tableau. I employed Tableau for an in-depth analysis of pivotal indicators within our pizza sales data. The goal was to compute and visually represent vital metrics, encompassing total revenue, average order value, total pizzas sold, total orders, and average pizzas per order.
 
